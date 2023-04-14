@@ -1,5 +1,3 @@
-Ayşe Hocam Selam
-
 # Sezar Şifreleme ve Şifre Çözme Programı
 
 Bu Python programı, kullanıcının bir metni şifrelemesine veya şifreli metni çözmesine olanak tanır. Sezar şifreleme yöntemini kullanır, yani metni belirli bir sayıda kaydırarak şifreler ve aynı şekilde çözer.
