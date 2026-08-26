@@ -20,3 +20,5 @@ Bu programın çalışması için Python 3 gereklidir.
 
 ## Lisans
 Bu program, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+
+Legacy Learning Project — Built independently.
